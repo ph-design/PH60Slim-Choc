@@ -8232,7 +8232,7 @@
 				)
 			)
 		)
-		(property "Value" "500ma"
+		(property "Value" "750ma"
 			(at 73.66 193.04 90)
 			(effects
 				(font
@@ -8240,7 +8240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
+		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
 			(at 78.74 195.58 0)
 			(effects
 				(font
@@ -10642,7 +10642,7 @@
 			)
 		)
 		(instances
-			(project "PH60_Rev2"
+			(project "PH60Slim-Choc"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(page "3")
 				)
@@ -10684,7 +10684,7 @@
 			)
 		)
 		(instances
-			(project "PH60_Rev2"
+			(project "PH60Slim-Choc"
 				(path "/dca0f898-8fdb-4522-a51d-f4f4238906e7"
 					(page "2")
 				)

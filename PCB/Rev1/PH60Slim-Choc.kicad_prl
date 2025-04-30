@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "PH60_Rev2.kicad_prl",
+    "filename": "PH60Slim-Choc.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
