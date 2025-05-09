@@ -29,7 +29,9 @@
 |Keycaps                             |61      |Printed low-profile keycaps provided (optional)|
 
 # Printing Guide
-The Slim-Choc components are designed to print without any tunnning, but using the following profile setting will slightly increse the overall quality. If you are using a Bambu Lab printer, download the profile from [MakerWorld](https://makerworld.com/zh/models/1361888) is recommended.
+The Slim-Choc components are designed to print without any tunnning, but using the following profile setting will slightly increse the overall quality. If you are using a Bambu Lab printer, download the profile from [MakerWorld](https://makerworld.com/en/models/1361888) is recommended. The Keycaps part should strictly follow the profile listed on [MakerWorld](https://makerworld.com/en/models/1394378) to prevent protential issues.
+
+## Case
 
 + Layer height: 0.16mm
 + Circle compensation: ON
@@ -39,18 +41,26 @@ The Slim-Choc components are designed to print without any tunnning, but using t
 + Support: Tree (auto)
 
 # Assembly Guide
-1. Remove the support and inplant all the heat inserts (8 on bottom case, 4 on stand). ![Inplant all the heat inserts.](001.jpg)
+1. Remove the support and inplant all the heat inserts (8 on bottom case, 4 on stand). ![Inplant all the heat inserts.](Image/001.jpg)
 
-2. Insert the magnet into the right side of the feet. ![Insert the magnet.](003.jpg)
+2. Insert the magnet into the right side of the feet. ![Insert the magnet.](Image/003.jpg)
 
-3. Tighten the feet with 4 flat head screws. ![Install the feet screws.](004.jpg)
+3. Tighten the feet with 4 flat head screws. ![Install the feet screws.](Image/004.jpg)
 
-4. Apply glue and insert a iron piece into the bottom case. ![Insert a iron piece.](006.jpg)
+4. Apply glue and insert a iron piece into the bottom case. ![Insert a iron piece.](Image/006.jpg)
 
-5. Stick a set of silicon pads. ![Stick silicon pads.](005.jpg)
+5. Stick a set of silicon pads. ![Stick silicon pads.](Image/005.jpg)
 
 6. Put Slim-Choc PCB and mounitng plate in the bottom case and tighten 8 flat head screws. 
 
-7. Install switches and keycaps. ![Install switches and keycaps.](007.jpg)
+7. Install switches and keycaps. ![Install switches and keycaps.](Image/007.jpg)
+
+# Links
+
++ [Discord](https://discord.gg/8UfQXcefPH)
++ [Bilibili](https://www.bilibili.com/video/BV1Te5VzBEiK/)
++ [Taobao store](https://shop268559013.taobao.com/)
++ [MakerWorld](https://makerworld.com/en/@M_Altmann)
++ [Official Website](https://phdesign.cc)
 
 # More descriptions WIP
