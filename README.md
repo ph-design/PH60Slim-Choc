@@ -1,6 +1,7 @@
- # PH60Slim Choc
-Slim-Choc is a 60% ANSI layout low-profile mechanical keyboard.
+ # PH60Slim-Choc
+**Slim-Choc is a 60% ANSI layout low-profile mechanical keyboard.**
 
+![PH60Slim-Choc main frame.](Image/008.jpg)
 
 # Features
 + 📏 7mm physical front height (4.5mm in visual)
@@ -28,8 +29,28 @@ Slim-Choc is a 60% ANSI layout low-profile mechanical keyboard.
 |Keycaps                             |61      |Printed low-profile keycaps provided (optional)|
 
 # Printing Guide
+The Slim-Choc components are designed to print without any tunnning, but using the following profile setting will slightly increse the overall quality. If you are using a Bambu Lab printer, download the profile from [MakerWorld](https://makerworld.com/zh/models/1361888) is recommended.
+
++ Layer height: 0.16mm
++ Circle compensation: ON
++ Wall generator: Arachne
++ Wall loops: 4
++ Infill: 100%
++ Support: Tree (auto)
 
 # Assembly Guide
+1. Remove the support and inplant all the heat inserts (8 on bottom case, 4 on stand). ![Inplant all the heat inserts.](001.jpg)
 
+2. Insert the magnet into the right side of the feet. ![Insert the magnet.](003.jpg)
+
+3. Tighten the feet with 4 flat head screws. ![Install the feet screws.](004.jpg)
+
+4. Apply glue and insert a iron piece into the bottom case. ![Insert a iron piece.](006.jpg)
+
+5. Stick a set of silicon pads. ![Stick silicon pads.](005.jpg)
+
+6. Put Slim-Choc PCB and mounitng plate in the bottom case and tighten 8 flat head screws. 
+
+7. Install switches and keycaps. ![Install switches and keycaps.](007.jpg)
 
 # More descriptions WIP
