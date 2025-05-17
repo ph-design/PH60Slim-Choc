@@ -12,7 +12,7 @@
   - [Features](#features)
   - [Required Components](#required-components)
   - [Printing Guide](#printing-guide)
-    - [Case \& Structural Parts](#case--structural-parts)
+    - [Case](#case)
     - [Keycaps](#keycaps)
   - [Assembly Guide](#assembly-guide)
   - [Firmware \& Configuration (WIP)](#firmware--configuration-wip)
@@ -45,7 +45,7 @@
 | M2×5 Flat Head Screws              | 6      | Case assembly                                 |
 | 20×10×0.5mm Ferrous Plate          | 1      | Magnet alignment                              |
 | 10×4×2mm N52 Magnet                | 1      | Footstand retention                           |
-| Low-Profile Stabilizers            | 5      | 4×1.5u + 1×6.25u                              |
+| Low-Profile Stabilizers            | 5      | 4×2u + 1×6.25u                              |
 | Kailh Choc Switches                | 61     | Compatible with Choc V1/V2                    |
 | Case Components                    | 1 set  | Includes bottom case, footstand, plate        |
 | Keycaps                            | 61     | DSA height recommended                        |
@@ -118,10 +118,11 @@ We welcome contributions! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Submit PR with detailed description  
+
 **Guidelines**:  
 - Follow QMK coding standards for firmware  
 - Include STEP files for hardware modifications  
-- Document changes in `/docs`
+- A dedicated documentation website will be available soon.
 
 ---
 
@@ -136,7 +137,7 @@ A: It can be found on Taobao, or modify the mounting plate to use Kailh official
 A: Ensure proper alignment of side-out connector with case cutout.
 
 **Q: Recommended keycap?**  
-A: Depends on the switches you use. For Kailh Choc V1, Special low-profile keycaps are required. For Choc V2, Cherry MX-compatible keycaps, including some if the taller profiles are supported. Alternatively, you can try our 3D-printed keycaps.
+A: Special low-profile keycaps are required. You can try our 3D-printed keycaps alternatively.
 
 ---
 
